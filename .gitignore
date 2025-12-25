@@ -140,3 +140,4 @@ gradle/
 
 # Crashlytics
 crashlytics-build.properties
+lib/firebase_options.dart
